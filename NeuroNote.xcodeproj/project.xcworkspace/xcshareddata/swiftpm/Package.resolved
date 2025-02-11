@@ -1,0 +1,33 @@
+{
+  "originHash" : "b68ade5e3384c8ae0e39bfe9f05f25256ea3001b9b2ec25f45e759988315ead6",
+  "pins" : [
+    {
+      "identity" : "alamofire",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Alamofire/Alamofire.git",
+      "state" : {
+        "revision" : "513364f870f6bfc468f9d2ff0a95caccc10044c5",
+        "version" : "5.10.2"
+      }
+    },
+    {
+      "identity" : "countrypicker",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/mun168/CountryPicker.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "825c33d3d7c4994f8f96be4745ce358968ee317e"
+      }
+    },
+    {
+      "identity" : "loadingbutton",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Changemin/LoadingButton",
+      "state" : {
+        "revision" : "5045668df822a04c248a9b40aca888a4d37f275a",
+        "version" : "1.1.2"
+      }
+    }
+  ],
+  "version" : 3
+}
